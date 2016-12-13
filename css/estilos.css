@@ -98,32 +98,36 @@
 	font-style: italic
 }
 
-.footer{
-	background-image:url(../images/footer.jpg);
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: cover;
-	margin-bottom: 500px;
-}
+                        /*Footer*/
 
+.footer{
+	background-image: url(../images/footer.jpg);
+	margin-bottom:500px;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+	text-align:center;
+	padding:2em 0;
+	
+	
+	}
 .footer-title{
 	color:#F00;
-}
-
+	margin-top:0;
+	
+	}
 .footer-description{
 	text-align:center;
-	color:#FFF;
-}
-
+	color:#03F;
+	}
 .footer-left{
 	display:inline-block;
-	width:32em;
+	width:31em;
 	text-align:center;
-	vertical-align:text-top;
-}
-
-.footer-righ{
-	display:inline-block;
-}
-
+	vertical-align:top;
+	padding-right: 2em;
 	
+	}
+.footer-item{
+	display:inline-block;
+	}
