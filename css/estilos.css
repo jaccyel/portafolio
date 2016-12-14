@@ -36,7 +36,7 @@
 
 .Header {
 	margin-top: 3.75em;
-	background-image: url(../images/portada.jpg);
+	background-image:url(../images/image-2.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -101,7 +101,7 @@
                         /*Footer*/
 
 .footer{
-	background-image: url(../images/footer.jpg);
+	background-image:url(../images/-que-son-y-por-que-se-producen-las-geminidas-0.jpeg);
 	margin-bottom:500px;
 	background-repeat:no-repeat;
 	background-position:center;
@@ -112,7 +112,7 @@
 	
 	}
 .footer-title{
-	color:#F00;
+	color:#0CF;
 	margin-top:0;
 	
 	}
