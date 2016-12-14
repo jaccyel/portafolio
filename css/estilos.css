@@ -36,7 +36,11 @@
 
 .Header {
 	margin-top: 3.75em;
+<<<<<<< HEAD
 	background-image:url(../images/image-2.jpg);
+=======
+	background-image: url(../images/portada.jpg);
+>>>>>>> aa3aa40
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -51,7 +55,11 @@
 	border-radius: 50%;
 }
 .Header-name, .Header-link {
+<<<<<<< HEAD
 	color:white;
+=======
+	color: white;
+>>>>>>> aa3aa40
 }
 .Header-link {
 	font-size: 2.2em;
@@ -98,6 +106,7 @@
 	font-style: italic
 }
 
+<<<<<<< HEAD
                         /*Footer*/
 
 .footer{
@@ -131,3 +140,34 @@
 .footer-item{
 	display:inline-block;
 	}
+=======
+.footer{
+	background-image:url(../images/footer.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	margin-bottom: 500px;
+}
+
+.footer-title{
+	color:#F00;
+}
+
+.footer-description{
+	text-align:center;
+	color:#FFF;
+}
+
+.footer-left{
+	display:inline-block;
+	width:32em;
+	text-align:center;
+	vertical-align:text-top;
+}
+
+.footer-righ{
+	display:inline-block;
+}
+
+	
+>>>>>>> aa3aa40
